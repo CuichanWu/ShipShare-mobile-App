@@ -1,4 +1,4 @@
-[**ShipShare project** ](https://github.khoury.northeastern.edu/Shipshare)
+# [**ShipShare project** ](https://github.khoury.northeastern.edu/Shipshare)
 # Frontend - mobile app: [**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
 # Backend server: [**ShipShare-backend-server**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-backend-server)
 
