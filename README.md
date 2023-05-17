@@ -5,8 +5,6 @@ Click on the links and help you navigate to the details!
 
 
 
-
-
 Welcome to our new app ShipShare, the ultimate solution for affordable and convenient international shipping! 
 
 **Shop the World**
