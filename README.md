@@ -1,4 +1,4 @@
-[# ShipShare-mobile-App](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
+[**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
 Click on the link and help you navigate to the details!
 
 *********** Description of the project ***********
