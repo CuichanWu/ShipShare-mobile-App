@@ -1,4 +1,5 @@
 Click on the links and help you navigate to the details!
+Mobile development with React Native and MongoDB for iOS and Android platforms.
 # [**ShipShare project** ](https://github.khoury.northeastern.edu/Shipshare)
 # Frontend - mobile app: [**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
 # Backend server: [**ShipShare-backend-server**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-backend-server)
