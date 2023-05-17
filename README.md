@@ -64,3 +64,16 @@ Back end
 File - auth.py, image_resource.py, parcel.py, root.py, routers.py, shipGroup.py, user.py, parcel_dao.py, shipGroup_dao.py, user_dao.py, Address.py, Parcel.py, ShipGroup.py, User.py, init_cloudinary.py, image_service.py, parcel_service.py, shipGroup_service.py, user_service.py, errors.py, functions.py
 
 commit numbers: N/A
+
+
+# Android 
+<img width="354" alt="android-welcomePage" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/9cb76490-94a8-4d6d-ad08-e76803531166">
+<img width="353" alt="android-parcels" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/9717d780-5f9e-4b3b-9bea-dd31b41c45c5">
+
+# iOS
+<img width="419" alt="ios-groups" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/b7b248c1-3eb1-46b8-84ee-329eaf51a3f6">
+<img width="420" alt="ios-login" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/2fe16578-628c-4e49-a374-978ed677f099">
+<img width="423" alt="ios-parcels" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/47bf398d-c7f2-486b-8fa2-c41c896a5c62">
+<img width="416" alt="ios-profile" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/f79fcd73-917c-4504-a022-7b4ff2068364">
+<img width="419" alt="ios-shipments" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/4d23e754-aa69-478d-b34d-b07c52b93927">
+<img width="429" alt="ios-welcomePageSteps" src="https://github.com/CuichanWu/ShipShare-mobile-App/assets/105250810/e2c6c106-25f0-40e5-9d9e-5f0aa16b2a03">
