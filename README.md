@@ -1,10 +1,10 @@
+Click on the links and help you navigate to the details!
 # [**ShipShare project** ](https://github.khoury.northeastern.edu/Shipshare)
 # Frontend - mobile app: [**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
 # Backend server: [**ShipShare-backend-server**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-backend-server)
 
-Click on the links and help you navigate to the details!
 
-**Description of the project**
+
 
 
 Welcome to our new app ShipShare, the ultimate solution for affordable and convenient international shipping! 
