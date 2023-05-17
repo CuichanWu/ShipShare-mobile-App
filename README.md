@@ -1,5 +1,8 @@
-[**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
-Click on the link and help you navigate to the details!
+[**ShipShare project** ](https://github.khoury.northeastern.edu/Shipshare)
+Frontend - mobile app: [**ShipShare-mobile-App**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-mobile-App)
+Backend server: [**ShipShare-backend-server**](https://github.khoury.northeastern.edu/Shipshare/ShipShare-backend-server)
+
+Click on the links and help you navigate to the details!
 
 *********** Description of the project ***********
 
